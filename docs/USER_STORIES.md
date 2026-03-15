@@ -53,7 +53,7 @@ jobs:
 
 ```bash
 # 特定の仕様ファイルを参照しているコードを検索
-docref scan --filter "docs/api-spec.md"
+docref list --filter "docs/api-spec.md"
 
 # 出力例:
 # src/api.rs:12      -> docs/api-spec.md#L15-L30
