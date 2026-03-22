@@ -2,6 +2,9 @@
 name = "permanager"
 version = "0.1.0"
 edition = "2021"
+description = "Scan and list GitHub permanent links (blob/<sha40>) in your source code"
+license = "MIT"
+repository = "https://github.com/Abebe123000/docref"
 
 [dev-dependencies]
 indoc = "2"
